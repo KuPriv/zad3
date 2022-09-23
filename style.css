@@ -172,7 +172,7 @@ textarea {
   padding: 2px;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1025px) {
   ::-webkit-scrollbar,
   .ssilki::-webkit-scrollbar {
     width: 12px;
@@ -223,16 +223,12 @@ textarea {
 }
 
 @media screen and (min-width: 1025px) {
- header {
+  header {
     display: block;
     position: relative;
     padding-top: 10px;
   }
-  
-  table {
-    width: 960px;
-  }
-  
+
   h1 {
     width: 300px;
     margin: 0 auto;
@@ -247,6 +243,10 @@ textarea {
     left: 18%;
     width: 80px;
     height: 80px;
+  }
+
+  .ssilki {
+    height: 400px;
   }
 }
 
