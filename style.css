@@ -250,7 +250,7 @@ textarea {
   }
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 800px) {
   nav {
     flex-direction: row;
     justify-content: center;
