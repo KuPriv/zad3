@@ -219,19 +219,14 @@ textarea {
 }
 
 @media screen and (min-width: 1500px) {
-  header {
+ header {
     display: block;
     position: relative;
     padding-top: 10px;
   }
-
-  h2 {
-    margin-left: 240px;
-    margin-right: 840px;
-  }
-
+  
   table {
-    width: 55vw;
+    width: 960px;
   }
 
   h1 {
