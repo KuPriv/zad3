@@ -231,11 +231,6 @@ textarea {
   table {
     width: 960px;
   }
-
-    nav {
-    flex-direction: row;
-    justify-content: center;
-  }
   
   h1 {
     width: 300px;
@@ -251,5 +246,12 @@ textarea {
     left: 18%;
     width: 80px;
     height: 80px;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  nav {
+    flex-direction: row;
+    justify-content: center;
   }
 }
