@@ -222,7 +222,7 @@ textarea {
 } */
 }
 
-@media screen and (min-width: 1500px) {
+@media screen and (min-width: 1025px) {
  header {
     display: block;
     position: relative;
@@ -250,7 +250,7 @@ textarea {
   }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1025px) {
   nav {
     flex-direction: row;
     justify-content: center;
